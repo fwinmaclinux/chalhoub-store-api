@@ -29,13 +29,13 @@
       "id": "green",
       "name": "Dark Green",
       "hex": "#0B4F48",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-green.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-green.png?v=e51ba6a0"
     },
     {
       "id": "black",
       "name": "Black",
       "hex": "#222222",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-black.png?v=54dfeaad"
     }
   ],
   "description": "A wardrobe staple in soft cotton jersey, finished with the signature Tiger on the chest.",
@@ -48,22 +48,22 @@
     {
       "id": "tiger-tee",
       "title": "Tiger Medium Red",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png?v=e9635e0b"
     },
     {
       "id": "tiger-crest-tee",
       "title": "Tiger Crest Mint",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-mint.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-mint.png?v=9b7ddf4b"
     },
     {
       "id": "tiger-neon-tee",
       "title": "Tiger Neon Black",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-black.png?v=54dfeaad"
     },
     {
       "id": "tiger-pastel-tee",
       "title": "Tiger Pastel Grey",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-grey.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-grey.png?v=4c24d31e"
     }
   ]
 }

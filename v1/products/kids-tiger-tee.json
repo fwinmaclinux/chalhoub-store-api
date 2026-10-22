@@ -33,13 +33,13 @@
       "id": "yellow",
       "name": "Yellow",
       "hex": "#F6C945",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-yellow.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-yellow.png?v=c84ff5e3"
     },
     {
       "id": "blue",
       "name": "Blue",
       "hex": "#5B8DEF",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-blue.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-blue.png?v=9a44f170"
     }
   ],
   "description": "A playful tee for little ones in soft organic cotton.",
@@ -52,22 +52,22 @@
     {
       "id": "kids-tiger-sweatshirt",
       "title": "Kids Tiger Sweatshirt",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-sweatshirt-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-sweatshirt-red.png?v=abd42e20"
     },
     {
       "id": "tiger-cap",
       "title": "Tiger Baseball Cap",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png?v=70f91a46"
     },
     {
       "id": "tiger-tote",
       "title": "Tiger Tote Bag",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png?v=59b40bb7"
     },
     {
       "id": "tiger-tee",
       "title": "Tiger Medium Red",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png?v=e9635e0b"
     }
   ]
 }

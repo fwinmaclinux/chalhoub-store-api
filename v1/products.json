@@ -9,37 +9,37 @@
         "currency": "AED"
       },
       "category": "men",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png?v=e9635e0b",
       "colors": [
         {
           "id": "red",
           "name": "Red",
           "hex": "#D7262C",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png?v=e9635e0b"
         },
         {
           "id": "black",
           "name": "Black",
           "hex": "#222222",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-black.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-black.png?v=54dfeaad"
         },
         {
           "id": "mint",
           "name": "Mint",
           "hex": "#BCD3D3",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-mint.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-mint.png?v=9b7ddf4b"
         },
         {
           "id": "white",
           "name": "White",
           "hex": "#FFFFFF",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-white.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-white.png?v=f46bc40b"
         },
         {
           "id": "green",
           "name": "Dark Green",
           "hex": "#0B4F48",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-green.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-green.png?v=e51ba6a0"
         }
       ]
     },
@@ -51,19 +51,19 @@
         "currency": "AED"
       },
       "category": "men",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-green.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-green.png?v=e51ba6a0",
       "colors": [
         {
           "id": "green",
           "name": "Dark Green",
           "hex": "#0B4F48",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-green.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-green.png?v=e51ba6a0"
         },
         {
           "id": "black",
           "name": "Black",
           "hex": "#222222",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-black.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-black.png?v=54dfeaad"
         }
       ]
     },
@@ -75,19 +75,19 @@
         "currency": "AED"
       },
       "category": "men",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-mint.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-mint.png?v=9b7ddf4b",
       "colors": [
         {
           "id": "mint",
           "name": "Mint",
           "hex": "#BCD3D3",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-mint.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-mint.png?v=9b7ddf4b"
         },
         {
           "id": "white",
           "name": "White",
           "hex": "#FFFFFF",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-white.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-white.png?v=f46bc40b"
         }
       ]
     },
@@ -99,19 +99,19 @@
         "currency": "AED"
       },
       "category": "men",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-black.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-black.png?v=54dfeaad",
       "colors": [
         {
           "id": "black",
           "name": "Black",
           "hex": "#222222",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-black.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-black.png?v=54dfeaad"
         },
         {
           "id": "red",
           "name": "Red",
           "hex": "#D7262C",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-red.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-red.png?v=e9635e0b"
         }
       ]
     },
@@ -123,19 +123,19 @@
         "currency": "AED"
       },
       "category": "men",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-grey.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-grey.png?v=4c24d31e",
       "colors": [
         {
           "id": "grey",
           "name": "Grey",
           "hex": "#B9B7BE",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-grey.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-grey.png?v=4c24d31e"
         },
         {
           "id": "mint",
           "name": "Mint",
           "hex": "#BCD3D3",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-mint.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-mint.png?v=9b7ddf4b"
         }
       ]
     },
@@ -147,19 +147,19 @@
         "currency": "AED"
       },
       "category": "women",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-pink.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-pink.png?v=635ca3d3",
       "colors": [
         {
           "id": "pink",
           "name": "Pink",
           "hex": "#F2B8C6",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-pink.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-pink.png?v=635ca3d3"
         },
         {
           "id": "white",
           "name": "White",
           "hex": "#FFFFFF",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-white.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-white.png?v=f46bc40b"
         }
       ]
     },
@@ -171,19 +171,19 @@
         "currency": "AED"
       },
       "category": "women",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-lilac.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-lilac.png?v=aa0e8b8e",
       "colors": [
         {
           "id": "lilac",
           "name": "Lilac",
           "hex": "#C8B6E2",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-lilac.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-lilac.png?v=aa0e8b8e"
         },
         {
           "id": "grey",
           "name": "Grey",
           "hex": "#B9B7BE",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-grey.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-grey.png?v=3913dbec"
         }
       ]
     },
@@ -195,19 +195,19 @@
         "currency": "AED"
       },
       "category": "kids",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-yellow.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-yellow.png?v=c84ff5e3",
       "colors": [
         {
           "id": "yellow",
           "name": "Yellow",
           "hex": "#F6C945",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-yellow.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-yellow.png?v=c84ff5e3"
         },
         {
           "id": "blue",
           "name": "Blue",
           "hex": "#5B8DEF",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-blue.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-blue.png?v=9a44f170"
         }
       ]
     },
@@ -219,19 +219,19 @@
         "currency": "AED"
       },
       "category": "kids",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-sweatshirt-red.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-sweatshirt-red.png?v=abd42e20",
       "colors": [
         {
           "id": "red",
           "name": "Red",
           "hex": "#D7262C",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-sweatshirt-red.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-sweatshirt-red.png?v=abd42e20"
         },
         {
           "id": "green",
           "name": "Dark Green",
           "hex": "#0B4F48",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-sweatshirt-green.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-sweatshirt-green.png?v=239ac6e5"
         }
       ]
     },
@@ -243,19 +243,19 @@
         "currency": "AED"
       },
       "category": "ftw",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sneaker-white.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sneaker-white.png?v=ff7f0633",
       "colors": [
         {
           "id": "white",
           "name": "White",
           "hex": "#FFFFFF",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sneaker-white.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sneaker-white.png?v=ff7f0633"
         },
         {
           "id": "black",
           "name": "Black",
           "hex": "#222222",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sneaker-black.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sneaker-black.png?v=a9dee679"
         }
       ]
     },
@@ -267,19 +267,19 @@
         "currency": "AED"
       },
       "category": "accessories",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png?v=70f91a46",
       "colors": [
         {
           "id": "black",
           "name": "Black",
           "hex": "#222222",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png?v=70f91a46"
         },
         {
           "id": "red",
           "name": "Red",
           "hex": "#D7262C",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-red.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-red.png?v=5a4f6545"
         }
       ]
     },
@@ -291,19 +291,19 @@
         "currency": "AED"
       },
       "category": "accessories",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png",
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png?v=59b40bb7",
       "colors": [
         {
           "id": "natural",
           "name": "Natural",
           "hex": "#E8DCC4",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png?v=59b40bb7"
         },
         {
           "id": "black",
           "name": "Black",
           "hex": "#222222",
-          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-black.png"
+          "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-black.png?v=5ea43594"
         }
       ]
     }

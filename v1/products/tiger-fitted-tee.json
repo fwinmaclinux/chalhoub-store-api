@@ -29,13 +29,13 @@
       "id": "pink",
       "name": "Pink",
       "hex": "#F2B8C6",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-pink.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-pink.png?v=635ca3d3"
     },
     {
       "id": "white",
       "name": "White",
       "hex": "#FFFFFF",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-white.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-white.png?v=f46bc40b"
     }
   ],
   "description": "A slim-fit tee in stretch cotton with the Tiger embroidered on the chest.",
@@ -48,22 +48,22 @@
     {
       "id": "tiger-sweatshirt",
       "title": "Tiger Sweatshirt Lilac",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-lilac.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-lilac.png?v=aa0e8b8e"
     },
     {
       "id": "tiger-tote",
       "title": "Tiger Tote Bag",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png?v=59b40bb7"
     },
     {
       "id": "tiger-cap",
       "title": "Tiger Baseball Cap",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png?v=70f91a46"
     },
     {
       "id": "tiger-tee",
       "title": "Tiger Medium Red",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png?v=e9635e0b"
     }
   ]
 }

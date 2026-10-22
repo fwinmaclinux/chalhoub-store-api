@@ -29,13 +29,13 @@
       "id": "grey",
       "name": "Grey",
       "hex": "#B9B7BE",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-grey.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-grey.png?v=4c24d31e"
     },
     {
       "id": "mint",
       "name": "Mint",
       "hex": "#BCD3D3",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-mint.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-mint.png?v=9b7ddf4b"
     }
   ],
   "description": "Muted grey cotton with a tonal Tiger, made to layer under jackets and overshirts.",
@@ -48,22 +48,22 @@
     {
       "id": "tiger-tee",
       "title": "Tiger Medium Red",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png?v=e9635e0b"
     },
     {
       "id": "tiger-classic-tee",
       "title": "Tiger Classic Green",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-green.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-green.png?v=e51ba6a0"
     },
     {
       "id": "tiger-crest-tee",
       "title": "Tiger Crest Mint",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-mint.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-mint.png?v=9b7ddf4b"
     },
     {
       "id": "tiger-neon-tee",
       "title": "Tiger Neon Black",
-      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-black.png?v=54dfeaad"
     }
   ]
 }
