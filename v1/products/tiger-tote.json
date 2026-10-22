@@ -17,13 +17,13 @@
       "id": "natural",
       "name": "Natural",
       "hex": "#E8DCC4",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tote-natural.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png"
     },
     {
       "id": "black",
       "name": "Black",
       "hex": "#222222",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tote-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-black.png"
     }
   ],
   "description": "A roomy canvas tote for everyday essentials, printed with the Tiger.",
@@ -36,22 +36,22 @@
     {
       "id": "tiger-cap",
       "title": "Tiger Baseball Cap",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-cap-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png"
     },
     {
       "id": "tiger-sneaker",
       "title": "Tiger Court Sneaker",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-sneaker-white.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sneaker-white.png"
     },
     {
       "id": "tiger-fitted-tee",
       "title": "Tiger Fitted Pink",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-fitted-tee-pink.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-pink.png"
     },
     {
       "id": "tiger-tee",
       "title": "Tiger Medium Red",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tee-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png"
     }
   ]
 }

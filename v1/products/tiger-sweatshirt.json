@@ -29,13 +29,13 @@
       "id": "lilac",
       "name": "Lilac",
       "hex": "#C8B6E2",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-sweatshirt-lilac.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-lilac.png"
     },
     {
       "id": "grey",
       "name": "Grey",
       "hex": "#B9B7BE",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-sweatshirt-grey.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-grey.png"
     }
   ],
   "description": "Brushed fleece sweatshirt with ribbed trims and a Tiger print at the front.",
@@ -48,22 +48,22 @@
     {
       "id": "tiger-fitted-tee",
       "title": "Tiger Fitted Pink",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-fitted-tee-pink.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-pink.png"
     },
     {
       "id": "tiger-tote",
       "title": "Tiger Tote Bag",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tote-natural.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png"
     },
     {
       "id": "tiger-cap",
       "title": "Tiger Baseball Cap",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-cap-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png"
     },
     {
       "id": "tiger-sneaker",
       "title": "Tiger Court Sneaker",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-sneaker-white.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sneaker-white.png"
     }
   ]
 }

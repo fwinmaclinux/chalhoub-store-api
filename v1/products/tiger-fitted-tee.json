@@ -29,13 +29,13 @@
       "id": "pink",
       "name": "Pink",
       "hex": "#F2B8C6",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-fitted-tee-pink.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-pink.png"
     },
     {
       "id": "white",
       "name": "White",
       "hex": "#FFFFFF",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-fitted-tee-white.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-white.png"
     }
   ],
   "description": "A slim-fit tee in stretch cotton with the Tiger embroidered on the chest.",
@@ -48,22 +48,22 @@
     {
       "id": "tiger-sweatshirt",
       "title": "Tiger Sweatshirt Lilac",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-sweatshirt-lilac.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-lilac.png"
     },
     {
       "id": "tiger-tote",
       "title": "Tiger Tote Bag",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tote-natural.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png"
     },
     {
       "id": "tiger-cap",
       "title": "Tiger Baseball Cap",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-cap-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png"
     },
     {
       "id": "tiger-tee",
       "title": "Tiger Medium Red",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tee-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png"
     }
   ]
 }

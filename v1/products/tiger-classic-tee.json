@@ -29,13 +29,13 @@
       "id": "green",
       "name": "Dark Green",
       "hex": "#0B4F48",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-classic-tee-green.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-green.png"
     },
     {
       "id": "black",
       "name": "Black",
       "hex": "#222222",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-classic-tee-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-black.png"
     }
   ],
   "description": "A wardrobe staple in soft cotton jersey, finished with the signature Tiger on the chest.",
@@ -48,22 +48,22 @@
     {
       "id": "tiger-tee",
       "title": "Tiger Medium Red",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tee-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png"
     },
     {
       "id": "tiger-crest-tee",
       "title": "Tiger Crest Mint",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-crest-tee-mint.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-mint.png"
     },
     {
       "id": "tiger-neon-tee",
       "title": "Tiger Neon Black",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-neon-tee-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-black.png"
     },
     {
       "id": "tiger-pastel-tee",
       "title": "Tiger Pastel Grey",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-pastel-tee-grey.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-grey.png"
     }
   ]
 }

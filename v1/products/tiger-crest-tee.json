@@ -29,13 +29,13 @@
       "id": "mint",
       "name": "Mint",
       "hex": "#BCD3D3",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-crest-tee-mint.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-mint.png"
     },
     {
       "id": "white",
       "name": "White",
       "hex": "#FFFFFF",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-crest-tee-white.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-white.png"
     }
   ],
   "description": "Fresh pastel tones meet the Tiger crest for an easy, relaxed summer look.",
@@ -48,22 +48,22 @@
     {
       "id": "tiger-tee",
       "title": "Tiger Medium Red",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tee-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png"
     },
     {
       "id": "tiger-classic-tee",
       "title": "Tiger Classic Green",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-classic-tee-green.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-green.png"
     },
     {
       "id": "tiger-neon-tee",
       "title": "Tiger Neon Black",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-neon-tee-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-black.png"
     },
     {
       "id": "tiger-pastel-tee",
       "title": "Tiger Pastel Grey",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-pastel-tee-grey.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-grey.png"
     }
   ]
 }

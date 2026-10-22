@@ -1,7 +1,7 @@
 # Chalhoub Store API
 
 Static JSON API for the Chalhoub Store Expo app (React Native assessment).
-Served by GitHub Pages at **https://fwinmaclinux.github.io/chalhoub-store-api/v1**.
+Served by GitHub Pages at **https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1**.
 
 | Endpoint | Content |
 | -------- | ------- |

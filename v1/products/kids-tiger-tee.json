@@ -33,13 +33,13 @@
       "id": "yellow",
       "name": "Yellow",
       "hex": "#F6C945",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/kids-tiger-tee-yellow.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-yellow.png"
     },
     {
       "id": "blue",
       "name": "Blue",
       "hex": "#5B8DEF",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/kids-tiger-tee-blue.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-blue.png"
     }
   ],
   "description": "A playful tee for little ones in soft organic cotton.",
@@ -52,22 +52,22 @@
     {
       "id": "kids-tiger-sweatshirt",
       "title": "Kids Tiger Sweatshirt",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/kids-tiger-sweatshirt-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-sweatshirt-red.png"
     },
     {
       "id": "tiger-cap",
       "title": "Tiger Baseball Cap",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-cap-black.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-black.png"
     },
     {
       "id": "tiger-tote",
       "title": "Tiger Tote Bag",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tote-natural.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-natural.png"
     },
     {
       "id": "tiger-tee",
       "title": "Tiger Medium Red",
-      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tee-red.png"
+      "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-red.png"
     }
   ]
 }
