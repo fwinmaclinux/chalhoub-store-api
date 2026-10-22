@@ -1,0 +1,69 @@
+{
+  "id": "tiger-neon-tee",
+  "title": "Tiger Neon Black",
+  "price": {
+    "amount": 260,
+    "currency": "AED"
+  },
+  "category": "men",
+  "sizes": [
+    {
+      "label": "S",
+      "available": false
+    },
+    {
+      "label": "M",
+      "available": true
+    },
+    {
+      "label": "L",
+      "available": true
+    },
+    {
+      "label": "XL",
+      "available": true
+    }
+  ],
+  "colors": [
+    {
+      "id": "black",
+      "name": "Black",
+      "hex": "#222222",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-neon-tee-black.png"
+    },
+    {
+      "id": "red",
+      "name": "Red",
+      "hex": "#D7262C",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-neon-tee-red.png"
+    }
+  ],
+  "description": "A graphic black tee with a contrasting Tiger print that stands out after dark.",
+  "details": [
+    "Short-sleeved T-shirt.",
+    "Round neck.",
+    "Tiger embroidered on the chest."
+  ],
+  "relatedProducts": [
+    {
+      "id": "tiger-tee",
+      "title": "Tiger Medium Red",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tee-red.png"
+    },
+    {
+      "id": "tiger-classic-tee",
+      "title": "Tiger Classic Green",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-classic-tee-green.png"
+    },
+    {
+      "id": "tiger-crest-tee",
+      "title": "Tiger Crest Mint",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-crest-tee-mint.png"
+    },
+    {
+      "id": "tiger-pastel-tee",
+      "title": "Tiger Pastel Grey",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-pastel-tee-grey.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "slug": "men",
+      "label": "Men"
+    },
+    {
+      "slug": "women",
+      "label": "Women"
+    },
+    {
+      "slug": "kids",
+      "label": "Kids"
+    },
+    {
+      "slug": "ftw",
+      "label": "FTW"
+    },
+    {
+      "slug": "accessories",
+      "label": "Accessories"
+    }
+  ]
+}

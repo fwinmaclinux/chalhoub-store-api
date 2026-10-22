@@ -1,0 +1,57 @@
+{
+  "id": "tiger-cap",
+  "title": "Tiger Baseball Cap",
+  "price": {
+    "amount": 210,
+    "currency": "AED"
+  },
+  "category": "accessories",
+  "sizes": [
+    {
+      "label": "One size",
+      "available": true
+    }
+  ],
+  "colors": [
+    {
+      "id": "black",
+      "name": "Black",
+      "hex": "#222222",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-cap-black.png"
+    },
+    {
+      "id": "red",
+      "name": "Red",
+      "hex": "#D7262C",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-cap-red.png"
+    }
+  ],
+  "description": "Six-panel cotton cap with an adjustable strap and embroidered Tiger.",
+  "details": [
+    "Adjustable strap.",
+    "100% cotton.",
+    "Tiger embroidered on the front."
+  ],
+  "relatedProducts": [
+    {
+      "id": "tiger-tote",
+      "title": "Tiger Tote Bag",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tote-natural.png"
+    },
+    {
+      "id": "tiger-sneaker",
+      "title": "Tiger Court Sneaker",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-sneaker-white.png"
+    },
+    {
+      "id": "tiger-tee",
+      "title": "Tiger Medium Red",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tee-red.png"
+    },
+    {
+      "id": "tiger-neon-tee",
+      "title": "Tiger Neon Black",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-neon-tee-black.png"
+    }
+  ]
+}

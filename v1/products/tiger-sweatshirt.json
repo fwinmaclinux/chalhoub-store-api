@@ -1,0 +1,69 @@
+{
+  "id": "tiger-sweatshirt",
+  "title": "Tiger Sweatshirt Lilac",
+  "price": {
+    "amount": 450,
+    "currency": "AED"
+  },
+  "category": "women",
+  "sizes": [
+    {
+      "label": "XS",
+      "available": false
+    },
+    {
+      "label": "S",
+      "available": true
+    },
+    {
+      "label": "M",
+      "available": true
+    },
+    {
+      "label": "L",
+      "available": true
+    }
+  ],
+  "colors": [
+    {
+      "id": "lilac",
+      "name": "Lilac",
+      "hex": "#C8B6E2",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-sweatshirt-lilac.png"
+    },
+    {
+      "id": "grey",
+      "name": "Grey",
+      "hex": "#B9B7BE",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-sweatshirt-grey.png"
+    }
+  ],
+  "description": "Brushed fleece sweatshirt with ribbed trims and a Tiger print at the front.",
+  "details": [
+    "Long sleeves.",
+    "Ribbed cuffs and hem.",
+    "Tiger printed on the front."
+  ],
+  "relatedProducts": [
+    {
+      "id": "tiger-fitted-tee",
+      "title": "Tiger Fitted Pink",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-fitted-tee-pink.png"
+    },
+    {
+      "id": "tiger-tote",
+      "title": "Tiger Tote Bag",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tote-natural.png"
+    },
+    {
+      "id": "tiger-cap",
+      "title": "Tiger Baseball Cap",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-cap-black.png"
+    },
+    {
+      "id": "tiger-sneaker",
+      "title": "Tiger Court Sneaker",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-sneaker-white.png"
+    }
+  ]
+}

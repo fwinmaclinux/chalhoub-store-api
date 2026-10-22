@@ -1,0 +1,73 @@
+{
+  "id": "kids-tiger-tee",
+  "title": "Kids Tiger Tee",
+  "price": {
+    "amount": 150,
+    "currency": "AED"
+  },
+  "category": "kids",
+  "sizes": [
+    {
+      "label": "4Y",
+      "available": true
+    },
+    {
+      "label": "6Y",
+      "available": true
+    },
+    {
+      "label": "8Y",
+      "available": true
+    },
+    {
+      "label": "10Y",
+      "available": true
+    },
+    {
+      "label": "12Y",
+      "available": false
+    }
+  ],
+  "colors": [
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "hex": "#F6C945",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/kids-tiger-tee-yellow.png"
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "hex": "#5B8DEF",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/kids-tiger-tee-blue.png"
+    }
+  ],
+  "description": "A playful tee for little ones in soft organic cotton.",
+  "details": [
+    "Short sleeves.",
+    "Organic cotton.",
+    "Tiger printed on the chest."
+  ],
+  "relatedProducts": [
+    {
+      "id": "kids-tiger-sweatshirt",
+      "title": "Kids Tiger Sweatshirt",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/kids-tiger-sweatshirt-red.png"
+    },
+    {
+      "id": "tiger-cap",
+      "title": "Tiger Baseball Cap",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-cap-black.png"
+    },
+    {
+      "id": "tiger-tote",
+      "title": "Tiger Tote Bag",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tote-natural.png"
+    },
+    {
+      "id": "tiger-tee",
+      "title": "Tiger Medium Red",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tee-red.png"
+    }
+  ]
+}

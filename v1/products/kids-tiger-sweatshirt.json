@@ -1,0 +1,73 @@
+{
+  "id": "kids-tiger-sweatshirt",
+  "title": "Kids Tiger Sweatshirt",
+  "price": {
+    "amount": 220,
+    "currency": "AED"
+  },
+  "category": "kids",
+  "sizes": [
+    {
+      "label": "4Y",
+      "available": true
+    },
+    {
+      "label": "6Y",
+      "available": true
+    },
+    {
+      "label": "8Y",
+      "available": true
+    },
+    {
+      "label": "10Y",
+      "available": true
+    },
+    {
+      "label": "12Y",
+      "available": true
+    }
+  ],
+  "colors": [
+    {
+      "id": "red",
+      "name": "Red",
+      "hex": "#D7262C",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/kids-tiger-sweatshirt-red.png"
+    },
+    {
+      "id": "green",
+      "name": "Dark Green",
+      "hex": "#0B4F48",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/kids-tiger-sweatshirt-green.png"
+    }
+  ],
+  "description": "Cosy fleece sweatshirt for cooler days, with the Tiger front and centre.",
+  "details": [
+    "Long sleeves.",
+    "Brushed fleece.",
+    "Tiger printed on the front."
+  ],
+  "relatedProducts": [
+    {
+      "id": "kids-tiger-tee",
+      "title": "Kids Tiger Tee",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/kids-tiger-tee-yellow.png"
+    },
+    {
+      "id": "tiger-cap",
+      "title": "Tiger Baseball Cap",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-cap-black.png"
+    },
+    {
+      "id": "tiger-tote",
+      "title": "Tiger Tote Bag",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-tote-natural.png"
+    },
+    {
+      "id": "tiger-sweatshirt",
+      "title": "Tiger Sweatshirt Lilac",
+      "image": "https://fwinmaclinux.github.io/chalhoub-store-api/v1/images/tiger-sweatshirt-lilac.png"
+    }
+  ]
+}
