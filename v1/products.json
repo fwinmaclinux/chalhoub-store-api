@@ -41,6 +41,24 @@
           "hex": "#0B4F48",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tee-green.png?v=e51ba6a0"
         }
+      ],
+      "sizes": [
+        {
+          "label": "S",
+          "available": true
+        },
+        {
+          "label": "M",
+          "available": true
+        },
+        {
+          "label": "L",
+          "available": true
+        },
+        {
+          "label": "XL",
+          "available": true
+        }
       ]
     },
     {
@@ -64,6 +82,24 @@
           "name": "Black",
           "hex": "#222222",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-classic-tee-black.png?v=54dfeaad"
+        }
+      ],
+      "sizes": [
+        {
+          "label": "S",
+          "available": true
+        },
+        {
+          "label": "M",
+          "available": true
+        },
+        {
+          "label": "L",
+          "available": true
+        },
+        {
+          "label": "XL",
+          "available": false
         }
       ]
     },
@@ -89,6 +125,24 @@
           "hex": "#FFFFFF",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-crest-tee-white.png?v=f46bc40b"
         }
+      ],
+      "sizes": [
+        {
+          "label": "S",
+          "available": true
+        },
+        {
+          "label": "M",
+          "available": true
+        },
+        {
+          "label": "L",
+          "available": true
+        },
+        {
+          "label": "XL",
+          "available": true
+        }
       ]
     },
     {
@@ -112,6 +166,24 @@
           "name": "Red",
           "hex": "#D7262C",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-neon-tee-red.png?v=e9635e0b"
+        }
+      ],
+      "sizes": [
+        {
+          "label": "S",
+          "available": false
+        },
+        {
+          "label": "M",
+          "available": true
+        },
+        {
+          "label": "L",
+          "available": true
+        },
+        {
+          "label": "XL",
+          "available": true
         }
       ]
     },
@@ -137,6 +209,24 @@
           "hex": "#BCD3D3",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-pastel-tee-mint.png?v=9b7ddf4b"
         }
+      ],
+      "sizes": [
+        {
+          "label": "S",
+          "available": true
+        },
+        {
+          "label": "M",
+          "available": true
+        },
+        {
+          "label": "L",
+          "available": true
+        },
+        {
+          "label": "XL",
+          "available": true
+        }
       ]
     },
     {
@@ -160,6 +250,24 @@
           "name": "White",
           "hex": "#FFFFFF",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-fitted-tee-white.png?v=f46bc40b"
+        }
+      ],
+      "sizes": [
+        {
+          "label": "XS",
+          "available": true
+        },
+        {
+          "label": "S",
+          "available": true
+        },
+        {
+          "label": "M",
+          "available": true
+        },
+        {
+          "label": "L",
+          "available": true
         }
       ]
     },
@@ -185,6 +293,24 @@
           "hex": "#B9B7BE",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sweatshirt-grey.png?v=3913dbec"
         }
+      ],
+      "sizes": [
+        {
+          "label": "XS",
+          "available": false
+        },
+        {
+          "label": "S",
+          "available": true
+        },
+        {
+          "label": "M",
+          "available": true
+        },
+        {
+          "label": "L",
+          "available": true
+        }
       ]
     },
     {
@@ -208,6 +334,28 @@
           "name": "Blue",
           "hex": "#5B8DEF",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-tee-blue.png?v=9a44f170"
+        }
+      ],
+      "sizes": [
+        {
+          "label": "4Y",
+          "available": true
+        },
+        {
+          "label": "6Y",
+          "available": true
+        },
+        {
+          "label": "8Y",
+          "available": true
+        },
+        {
+          "label": "10Y",
+          "available": true
+        },
+        {
+          "label": "12Y",
+          "available": false
         }
       ]
     },
@@ -233,6 +381,28 @@
           "hex": "#0B4F48",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/kids-tiger-sweatshirt-green.png?v=239ac6e5"
         }
+      ],
+      "sizes": [
+        {
+          "label": "4Y",
+          "available": true
+        },
+        {
+          "label": "6Y",
+          "available": true
+        },
+        {
+          "label": "8Y",
+          "available": true
+        },
+        {
+          "label": "10Y",
+          "available": true
+        },
+        {
+          "label": "12Y",
+          "available": true
+        }
       ]
     },
     {
@@ -256,6 +426,28 @@
           "name": "Black",
           "hex": "#222222",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-sneaker-black.png?v=a9dee679"
+        }
+      ],
+      "sizes": [
+        {
+          "label": "40",
+          "available": true
+        },
+        {
+          "label": "41",
+          "available": true
+        },
+        {
+          "label": "42",
+          "available": true
+        },
+        {
+          "label": "43",
+          "available": true
+        },
+        {
+          "label": "44",
+          "available": false
         }
       ]
     },
@@ -281,6 +473,12 @@
           "hex": "#D7262C",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-cap-red.png?v=5a4f6545"
         }
+      ],
+      "sizes": [
+        {
+          "label": "One size",
+          "available": true
+        }
       ]
     },
     {
@@ -304,6 +502,12 @@
           "name": "Black",
           "hex": "#222222",
           "image": "https://raw.githubusercontent.com/fwinmaclinux/chalhoub-store-api/main/v1/images/tiger-tote-black.png?v=5ea43594"
+        }
+      ],
+      "sizes": [
+        {
+          "label": "One size",
+          "available": true
         }
       ]
     }
